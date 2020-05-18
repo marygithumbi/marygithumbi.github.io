@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Mary Githumbi
-email: 
+email: ""
 description: >- # this means to ignore newlines until "baseurl:"
   This is the blog that I discuss my Data Science journey and test my thoughts. 
 baseurl: "" # the subpath of your site, e.g. /blog
@@ -24,7 +24,7 @@ github_username:  marygithumbi
 
 # Build settings
 markdown: kramdown
-theme: jekyll-theme-cayman
+theme: minima
 plugins:
   - jekyll-feed
 
