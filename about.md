@@ -12,8 +12,8 @@ My name is Mary and I was formally trained in Neuroscience and the philosophical
 
 ![Photo of Mary](/assets/images/Hiking.jpeg)
 
-Neuroplasticity combined with a growth mindset has led me to searching for new challanges intellectually and physically.
-I created this blog to chronicle my steps as I learn more about data analysis and how to make business decisions based on meaningful information.
+Neuroplasticity combined with a growth mindset has led me to search for new challanges intellectually and physically.
+I created this blog to document and share my steps as I learn more about data analysis and how to make business decisions based on meaningful information.
 
 ![Photo of Mary](/assets/images/Biking.jpeg)
 
