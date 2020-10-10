@@ -11,4 +11,4 @@ This is all thanks to taking the time I needed to breath and stay still. There i
 
 I am talking about mental silence, you can be in the busiest part of your home but you decide to stop what you are doing to take 2 minutes to listen to your breath. After sitting for 2 minutes noticing what shows up in your mind and letting it go. Then doing it again until you feel at peace with the motion of your thoughts. A simple yet powerful practice. 
 
-My clear line of thought happens in the morning so I will continue to work on my personal projects at this time. To see my progress feel free to look into my Personal Projects folder in github. 
+My clear line of thought happens in the morning so I will continue to work on my personal projects at this time. To see my progress feel free to look into my Personal Projects folder in github.  
