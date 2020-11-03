@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Knowing when it time to focus'
+title: 'Knowing when it is time to focus'
 date: 2020-11-03 06:15:00 -0400
 categories: baby-steps
 ---
