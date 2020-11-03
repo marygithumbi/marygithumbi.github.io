@@ -5,7 +5,7 @@ date: 2020-10-10 06:36:00 -0400
 categories: baby-steps
 ---
 
-I'm back and ready to get down to practicing data analytics. This year has been extremely unpredictable. My social, physical and work life has strained by COVID-19 and I am finally coming up for air. 
+I'm back and ready to get down to practicing data analytics. This year has been extremely unpredictable. My social, physical and work life has been strained by COVID-19 and I am finally coming up for air. 
 
 This is all thanks to taking the time I needed to breath and stay still. There is great power in taking the time to stay still and listen for silence. You would think with COVID taking humans out of busy downtowns that there would be an abundance of silence. Well... that's not the kind of silence I am talking about.
 
