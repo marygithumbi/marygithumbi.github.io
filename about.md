@@ -17,4 +17,4 @@ I created this blog to document and share my steps as I learn more about data an
 
 ![Photo of Mary](/assets/images/Biking.jpeg)
 
-My love for long distance cycling will also show up especially during this time of Covid-19 as I challenge myself to ride 75km on June 7th 2020 in support of Ride for Heart and 200km on August 29th 2020 in support of Ride to Conquer Cancer.
+My love for long distance cycling has shown up during this pandemic as a gentle ride and spending time to appreciate. I look forward to next season to pick up where I left off pre-pandemic
