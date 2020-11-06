@@ -12,7 +12,7 @@ The brainstorming phase of creating a project gave me plenty of ideas however I 
 After the initial excitement and frustration of creating a clean dataset, I decided to move on to the next step to get a different perspective. In the end, I maintained the data quality and kept the other columns I thought were irrelevant in order to follow the rule:
 
 It's better to have it and not need it Than 
-
-            to not have it and need it!! 
+             
+             to not have it and need it!! 
 
 Next Step... Data Visualization 
